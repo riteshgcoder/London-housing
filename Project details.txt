@@ -1,0 +1,8 @@
+LONDON HOUSING DATASET
+(A PART OF BIG DATA ANALYSIS)
+
+1. This dataset is primarily centered around the housing market at london. It contains a lot of additional relevant data.
+2. The data is used here is from year 1995 to 2019 of each different area.
+3. We have take a dataset of london housing which contains about 13549 rows.
+3. The data is available as a csv file downlaoded from kaggle.
+4. We will analyze this data using pandas library, seaborn and matplotlib.
